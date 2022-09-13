@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @CsongorD
+- Hi, I’m @CsongorD
 - I’m 18 years old
 - 
