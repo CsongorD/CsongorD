@@ -24,22 +24,7 @@ I enjoy solving practical problems, writing maintainable code, and learning how 
 
 - **Backend:** Java, Spring Boot, REST APIs
 - **Frontend:** JavaScript, React, HTML, CSS
-- **Tools:** PostgreSQL, Docker, Git, GitHub
-
-<div align="center">
-
-BACKEND
-<img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring Boot" />
-
-
-FRONTEND
-<img src="https://skillicons.dev/icons?i=javascript,react,html,css" alt="JavaScript, React, HTML and CSS" />
-
-
-DATABASE · TOOLS
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github" alt="PostgreSQL, Docker, Git and GitHub" />
-
-</div>
+- **Database & Tools:** PostgreSQL, Docker, Git, GitHub
 
 ### `03 / SELECTED WORK`
 
