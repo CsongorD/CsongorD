@@ -41,44 +41,69 @@ DATABASE · TOOLS
 
 </div>
 
-03 / SELECTED WORK
+### `03 / SELECTED WORK`
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <h3>◈ PreLoved</h3>
 
-A full-stack marketplace concept for buying and selling second-hand products, built as a collaborative project.
+<strong>Full-stack marketplace</strong>
 
-Stack
-Java Spring Boot React PostgreSQL Docker
+A collaborative project for buying and selling second-hand products.
 
-What I worked on
+<strong>TECH STACK</strong>
+
+<img src="https://img.shields.io/badge/Java-111816?style=flat&logo=openjdk&logoColor=00E5A0" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-111816?style=flat&logo=springboot&logoColor=00E5A0" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-111816?style=flat&logo=react&logoColor=00E5A0" alt="React" />
+<img src="https://img.shields.io/badge/PostgreSQL-111816?style=flat&logo=postgresql&logoColor=00E5A0" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-111816?style=flat&logo=docker&logoColor=00E5A0" alt="Docker" />
+
+<strong>MY CONTRIBUTIONS</strong>
+
 - Database integration
 - Automated image-search functionality
-- Docker setup
-<a href="https://github.com/CsongorD/PreLoved"><strong>↗ VIEW REPOSITORY</strong></a>
+- Dockerization
+
+<br/>
+
+<a href="https://github.com/CsongorD/PreLoved"><strong>VIEW REPOSITORY →</strong></a>
+
 </td>
 <td width="50%" valign="top">
 
 <h3>◈ Adexto</h3>
 
+<strong>Business website</strong>
 
-A modern website for a concrete fence business, focused on clear presentation and a clean user experience.
+A modern website for a concrete fence business, designed to present services clearly with a clean, responsive interface.
 
-Stack
-Next.js React Tailwind CSS
+<strong>TECH STACK</strong>
 
-Focus
-- Responsive UI
-- Modern visual design
-- Business-focused presentation
-<a href="https://github.com/CsongorD/Adexto"><strong>↗ VIEW REPOSITORY</strong></a>
-  ·  
-<a href="https://adexto.com/"><strong>↗ LIVE SITE</strong></a>
+<img src="https://img.shields.io/badge/Next.js-111816?style=flat&logo=nextdotjs&logoColor=00E5A0" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-111816?style=flat&logo=react&logoColor=00E5A0" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111816?style=flat&logo=tailwindcss&logoColor=00E5A0" alt="Tailwind CSS" />
+
+<strong>PROJECT FOCUS</strong>
+
+- Responsive user interface
+- Consistent visual design
+- Clear presentation of business services
+
+<br/>
+
+<a href="https://github.com/CsongorD/Adexto"><strong>VIEW REPOSITORY →</strong></a>
+
+<br/><br/>
+
+<a href="https://adexto.com/"><strong>VISIT LIVE WEBSITE ↗</strong></a>
+
 </td>
 </tr>
 </table>
+
 
 04 / GITHUB ACTIVITY
 <div align="center">
