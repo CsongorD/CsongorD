@@ -16,16 +16,16 @@ I enjoy turning ideas into clean, practical software — from backend logic to p
 
 </div>
 
-01 / ABOUT
-csongor@dev:~$ whoami
-Full-Stack Developer based in Budapest, Hungary.
+### `01 / ABOUT`
 
-csongor@dev:~$ focus
-Java · Spring Boot · React · PostgreSQL
+I'm a junior full-stack developer based in **Budapest, Hungary**, focused on building reliable web applications with **Java, Spring Boot, React, and PostgreSQL**.
 
-csongor@dev:~$ mindset
-Clean code. Practical solutions. Always learning.
-02 / TECH STACK
+I enjoy solving practical problems, writing maintainable code, and learning how to build software that is useful from end to end.
+
+- **Backend:** Java, Spring Boot, REST APIs
+- **Frontend:** JavaScript, React, HTML, CSS
+- **Tools:** PostgreSQL, Docker, Git, GitHub
+
 <div align="center">
 
 BACKEND
