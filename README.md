@@ -25,7 +25,7 @@ I enjoy solving practical problems, writing maintainable code, and learning how 
 - **Backend:** Java, Spring Boot, REST APIs
 - **Frontend:** JavaScript, React, HTML, CSS
 - **Database & Tools:** PostgreSQL, Docker, Git, GitHub
-
+<br></br>
 ### `02 / SELECTED WORK`
 
 <table>
@@ -88,8 +88,7 @@ A modern website for a concrete fence business, designed to present services cle
 </td>
 </tr>
 </table>
-
-
+<br></br>
 03 / GITHUB ACTIVITY
 <div align="center">
 
@@ -101,7 +100,7 @@ A modern website for a concrete fence business, designed to present services cle
 </a>
 
 </div>
-
+<br></br>
 04 / LET'S CONNECT
 <div align="center">
 
