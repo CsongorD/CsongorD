@@ -1,250 +1,135 @@
-<h1 align="center">Hi 👋, I'm Deák Csongor</h1>
-<h3 align="center">A passionate fullstack developer from Hungary</h3>
+<!--
+  Csongor Deák — GitHub Profile README
+  Repository: CsongorD/CsongorD
+-->
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=CsongorD&label=Profile%20views&color=0e75b6&style=flat"
-    alt="CsongorD"
-  />
-</p>
+<div align="center">
 
-- 🔭 I’m currently working on: **Crypto Market App** 
-- 🌱 I’m currently learning: **Flutter** 
-- 📫 How to reach me: **deak.csongor1@gmail.com**
+# C S O N G O R . D
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/csongor-deak" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="csongor-deak"
-      height="30"
-      width="40"
-  /></a>
-</p>
+### `FULL-STACK DEVELOPER` · `BUDAPEST, HU`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
+Building useful things for the web.
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
+I work across backend and frontend development, with a focus on  
+**Java · Spring Boot · React · PostgreSQL**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
+<br/>
 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
+<a href="https://deakcsongor.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00D492?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/csongor-deak/">
+  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00D492" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=00D492" alt="Contact"/>
+</a>
 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
+<br/>
+<br/>
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D492&height=2&section=header" width="100%" alt=""/>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CsongorD&show_icons=true&locale=en&layout=compact"
-    alt="CsongorD"
-  />
-</p>
+</div>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=CsongorD&show_icons=true&locale=en"
-    alt="CsongorD"
-  />
-</p>
+## `01` / ABOUT
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CsongorD&"
-    alt="CsongorD"
-  />
-</p>
+```text
+Name       Csongor Deák
+Location   Budapest, Hungary
+Focus      Full-stack development
+Backend    Java · Spring Boot · REST APIs
+Frontend   React · JavaScript
+Database   PostgreSQL
+Tools      Git · Docker
+```
+
+I enjoy turning ideas into working software, understanding how systems fit together, and improving code through practical experience.
+
+Currently focused on strengthening my backend engineering skills and building projects that solve real problems.
+
+## `02` / SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ PreLoved
+
+**Full-stack marketplace**
+
+A collaborative application for buying and selling second-hand products.
+
+`JAVA` `SPRING BOOT` `REACT`  
+`POSTGRESQL` `DOCKER`
+
+My contributions included database integration, automated image search, and Dockerization.
+
+<br/>
+
+<a href="https://github.com/CsongorD/PreLoved">↗ EXPLORE REPOSITORY</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Adexto
+
+**Business website**
+
+A web project for a concrete fence business, designed to establish a professional online presence.
+
+`WEB DEVELOPMENT` `UI` `DEPLOYMENT`
+
+<br/><br/>
+
+<a href="https://github.com/CsongorD/Adexto">↗ EXPLORE REPOSITORY</a>
+
+</td>
+</tr>
+</table>
+
+## `03` / TECH ARSENAL
+
+<div align="center">
+
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring"/>
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=js,react,html,css" alt="JavaScript, React, HTML, CSS"/>
+
+**DATA & TOOLING**
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github" alt="PostgreSQL, Docker, Git, GitHub"/>
+
+</div>
+
+## `04` / CURRENT DIRECTION
+
+- Building better Spring Boot applications and REST APIs.
+- Improving database design, testing, and error handling.
+- Applying clean code and software design principles.
+- Developing projects that demonstrate real engineering skills.
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING.
+
+Open to junior developer opportunities and interesting collaborations.
+
+<a href="https://deakcsongor.vercel.app/">PORTFOLIO</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/csongor-deak/">LINKEDIN</a> &nbsp;·&nbsp;
+<a href="https://github.com/CsongorD">GITHUB</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D492&height=2&section=footer" width="100%" alt=""/>
+
+<sub>DESIGNED WITH INTENT · BUILT WITH CODE</sub>
+
+</div>
