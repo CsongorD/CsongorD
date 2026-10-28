@@ -26,7 +26,7 @@ I enjoy solving practical problems, writing maintainable code, and learning how 
 - **Frontend:** JavaScript, React, HTML, CSS
 - **Database & Tools:** PostgreSQL, Docker, Git, GitHub
 
-### `03 / SELECTED WORK`
+### `02 / SELECTED WORK`
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ A modern website for a concrete fence business, designed to present services cle
 </table>
 
 
-04 / GITHUB ACTIVITY
+03 / GITHUB ACTIVITY
 <div align="center">
 
 <a href="https://github.com/CsongorD">
@@ -102,9 +102,9 @@ A modern website for a concrete fence business, designed to present services cle
 
 </div>
 
+04 / LET'S CONNECT
 <div align="center">
 
-05 / LET'S CONNECT
 Open to junior developer opportunities and interesting projects.
 
 <a href="https://deakcsongor.vercel.app/">Portfolio</a>
@@ -112,8 +112,6 @@ Open to junior developer opportunities and interesting projects.
 <a href="https://www.linkedin.com/in/csongor-deak/">LinkedIn</a>
   ·  
 <a href="mailto:YOUR_EMAIL@example.com">Email</a>
-
-
 
 <sub><code>while (learning) { build(); improve(); repeat(); }</code></sub>
 </div>
